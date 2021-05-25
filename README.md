@@ -1,6 +1,6 @@
 # Flask SQLAlchemy Mock RestAPI
 
-### Uploading my Mock RestAPI using FLASK and SQLAlchemy, Tutorial was done by Traversy Media, there were a couple tweaks to the syntax in Flask Marshmallow because of some updates
+#### Uploading my Mock RestAPI using FLASK and SQLAlchemy, Tutorial was done by Traversy Media, there were a couple tweaks to the syntax in Flask Marshmallow because of some updates
 
 ## Imports and Postman
 
