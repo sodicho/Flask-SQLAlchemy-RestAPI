@@ -4,7 +4,7 @@
 
 ## Imports and Postman
 
-#### Imports are all included in the app.py folder, I may add a requirements.txt for what was needed in to be downloaded. All of the requirements would be downloaded in a venv.
+#### Imports are all included in the app.py file, I may add a requirements.txt for what was needed to be downloaded. All of the requirements would be downloaded in a venv.
 
 #### Flask allowed for the program to run locally, and used Postman to test all requests from the client.
 
